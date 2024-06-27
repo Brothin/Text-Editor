@@ -4,6 +4,9 @@
 
 Develop a simple web-based code editor using React, with syntax highlighting capabilities provided by PrismJS.
 
+## Hosted Web Link
+https://text-editor-kappa-one.vercel.app/
+
 ## Features
 
 - **Text Input**: Users can input and edit code in a textarea element.
